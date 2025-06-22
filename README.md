@@ -1,2 +1,24 @@
 # MELTice
-Mapping authoritarian migration enforcement in New England. If you see ICE, tell us. 
+## Mapping authoritarian migration enforcement in New England. If you see ICE, tell us. 
+
+## Migration Enforcement and Legal Terror 
+### Mission
+Melt maps seeks to map authoritarian overreach across the United States. While NGO's often approach such overreach through juridical and discursive means, MELTmaps seeks to proactively identify potential misuse of force and extrajudicial violence. Through GIS data, we are attempting to rapidly identify patterns and deployment strategies, ensuring that citizens practicing their rights to free speech and protest can plan accordingly for political violence from the state and vigilante or paramilitary actors. 
+#### What Does This Mean?
+We utilize open source GIS tools to crowdsource real time data. By reaching a civically active audience where they're at (making use of Tik Tok, Instagram, Twitter, and *the algorithm*) we gather data from the ground, assemble it in the cloud, and make it available to the crowd. We flip the panopticon upside-down: ****If you see something, tell US! That way we can tell everyone else.** We analyze reports, submitted through a standard form with geospatial data and standard SALUTE identifying procedures established by activists, then upload that data to a public facing map, giving those on the ground an idea of what's coming and what's already happened. 
+#### Why MELT?
+While we founded this organization with the narrow scope of monitoring immigration enforcement (agencies like ICE, ERO, and HSI) MELT remains as a term that signifies multiple meanings in the context of an oppressive authoritarian leaning state. We seek to melt that state sanctioned violence imposes by creating systems that mirror liquid. We are an organic movement whose actions seek to de-obfuscate truths frozen in propaganda and official state narratives. Crowds move like liquids and we seek to provide support to the crowds who are coming up against a dam of state repression. 
+### Who We Are? Who uses MELTmaps?
+#### Us
+Security and anonymity are major concerns or us. As our goal is to monitor authoritarian deployment of force, we feel at any moment that authoritariansm could intensify and declare our work illegal. As such we have decided not to identify ourselves as founders and workers. This concern extends to our users as well. We purposefully use forms which gather minimal data about users. While this work is a clear expression of our first amendment rights, it would be hubris to think we're safe under break neck changes to the legal system of civic structure of our society. That being said, we are concerned citizens who are coming to this work from both the private and non profit sectors.
+#### You
+Our goal is to provide our tools to anyone who needs them. We also recognize that our data and our maps will be most immediately useful to activists on the ground who are engaging in protests or monitoring ICE raids and other state force incidents. 
+### Creating a Network of Citizen Monitors 
+In addition to having a centralize mapping system and database, MELTmaps seeks to train individuals to participate in human rights monitoring. This includes disseminating training and best practices documents for concerned citizens. While our data forms are specifically designed to get the best and most useful information on deployed force incidents, other data (personal accounts, photo, video) becomes more powerful in the hands of someone who is educated on how to capture effective and verifiable images.  Good data is difficult to get under pressure, and our training informs participants of their rights while capturing this data, empowering them to act in the best interest of their communities. 
+### Where?
+Our initial launch fo MELTmaps is in northern New England. Focusing mainly on Maine and New Hampshire while widening our scope and adding metros as we stress test at a lower level. Maine and New Hampshire are a good starting point as they allow us to test our methods in a lower activity area while still having a sizeable base of active potential users. We've estimated our user base not through population but through looking at active political and civic organizations who frequently take to the streets. We plan to deploy next in Boston, LA, and Minneapolis. 
+### Where Does It End?
+Our end goal with MELTmaps is to create a toolset which can be cloned and deployed in any metro, not only in the US but across the globe. To ensure that our process can be replicated we rely heavily on standards used by OSINT researchers, journalists, and human rights monitors. These standards are relatively young but tools like the verification handbook, SALUTE (a process for quickly identifying state forces and creating a report), as well as all of our GIS and data collection tools have been field tested in conflict zones and other high tension areas internationaly. 
+## License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
