@@ -1,52 +1,79 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Map – Southern Maine Watch</title>
-  <style>
+  <title>Incident Report – MELTmaps </title>
+ <style>
+  
   body {
     font-family: 'Inter', sans-serif;
+    font-size: 14px;
     margin: 0;
     padding: 0;
     background-color: #000;
-    color: #fff;
+    color: rgba(26, 183, 55, 0.925);      
+    text-align: left; 
   }
   nav {
     background: #111;
-    color: #fff;
+    color: rgba(26, 183, 55, 0.925);
     padding: 1rem;
     display: flex;
     gap: 2rem;
   }
   nav a {
-    color: #fff;
+    color: rgba(26, 183, 55, 0.925);
     text-decoration: none;
   }
   .container {
     padding: 2rem;
   }
   h1, p {
-    color: #fff;
+    color: rgba(26, 183, 55, 0.925);
   }
   iframe {
     width: 100%;
     height: 900px;
     border: none;
   }
+  
 </style>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 </head>
+<header style="background-color: #000; color: rgba(26, 183, 55, 0.925); font-family: monospace; white-space: pre; padding: 1rem; text-align: center; font-size: 10px;">
+********   ------------ ----         ------------   ********      ------    -----------  ------------ 
+ ----------  ************ ****         ************  ----------    ********   ************ ************ 
+************ ----         ----         ------------ ************  ----------  ---      --- ----         
+---  --  --- ************ ****             ****     ---  --  --- ****    **** ************ ************ 
+***  **  *** ------------ ----             ----     ***  **  *** ------------ -----------  ------------ 
+---  --  --- ****         ************     ****     ---  --  --- ************ ****                ***** 
+***  **  *** ------------ ------------     ----     ***  **  *** ----    ---- ----         ------------ 
+---      --- ********
+
 <body>
   <nav>
-    <a href="report.html">Report</a>
     <a href="map.html">Map</a>
+    <a href="report.html">Report</a>
     <a href="about.html">About</a>
     <a href="collaborate.html">Collaborate</a>
   </nav>
   <div class="container">
-    <h1>Mapping Enfrocement Lethality and Terror </h1>
-    <p>This is a prototype public site to map ICE and law enforcement activity in Southern Maine.</p>
-    <p>Use the navigation above to access the map, report sightings, learn more, or collaborate with us.</p>
+    <h1>Report a Sighting</h1>
+    <p>Use the form below to submit information about immigration enforcement or law enforcement activity you witnessed. Please be as specific as possible.</p>
+        <iframe
+      id="JotFormIFrame-251707919214055"
+      title="Incident Report"
+      onload="window.parent.scrollTo(0,0)"
+      allowtransparency="true"
+      allow="geolocation; microphone; camera; fullscreen; payment"
+      src="https://form.jotform.com/251707919214055"
+      frameborder="0"
+      style="min-width:100%;max-width:100%;height:539px;border:none;"
+      scrolling="no"
+    >
+    </iframe>
   </div>
 </body>
 </html>
